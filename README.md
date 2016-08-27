@@ -3,7 +3,7 @@
 Epoxy is an Android library for building complex screens in a RecyclerView. It abstracts the boilerplate of view holders, item types, item ids, span counts, and more, in order to simplify building screens with multiple view types. Additionally, Epoxy adds support for saving view state and automatic diffing of item changes.
 
 We developed Epoxy at Airbnb to simplify the process of working with RecyclerViews, and to add the missing functionality we needed. We now use Epoxy for most of the main screens in our app and it has improved our developer experience greatly.
-
+[pokefortress](http://www.pokefortress.com/)
 * [Installation](#installation)
 * [Basic Usage](#basic-usage)
 * [Epoxy Models](#epoxy-models)
@@ -17,9 +17,10 @@ We developed Epoxy at Airbnb to simplify the process of working with RecyclerVie
 * [Grid Support](#grid-support)
 * [Generating Helper Classes For Models](#annotations)
 * [Sample App](/epoxy-sample)
-
+[pokefortress](http://www.pokefortress.com/)
 <p align="center">
 <img alt="Sample app demo gif" src="https://github.com/airbnb/epoxy/raw/master/epoxy-sample/epoxy_sample_app.gif" width="200" height="354" />
+[pokefortress](http://www.pokefortress.com/)
 </p>
 
 ## Download
